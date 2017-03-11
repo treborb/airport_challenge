@@ -63,10 +63,6 @@ Your code should defend against [edge cases](http://programmers.stackexchange.co
 
 * Write an RSpec **feature** test that lands and takes off a number of planes
 
-Note that is a practice 'tech test' of the kinds that employers use to screen developer applicants.  More detailed submission requirements/guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md)
-
-Finally, don’t overcomplicate things. This task isn’t as hard as it may seem at first.
-
 ## <a name="install">Installation</a>
 
 ```sh
